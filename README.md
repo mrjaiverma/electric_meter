@@ -14,7 +14,7 @@ My housing society uses MyGate app, which allows users to pay the electricity bi
 5. Shows money spent on electricity <br>
 
 <h3>#Technical Details</h3> 
-The electricity is divided into two types EC and DG units:
+The electricity is divided into two types EC and DG units: <br>
 1. EC units are the units that are charged by the electricity supplier which costs Rs. 6.25/per unit.  <br>
 2. DG units are the units that are used when there is any power back-up required, usually 0-1 units a day at max, it costs Rs. 21.5. <br>
 
