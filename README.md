@@ -19,6 +19,6 @@ The electricity is divided into two types EC and DG units: <br>
 2. DG units are the units that are used when there is any power back-up required, usually 0-1 units a day at max, it costs Rs. 21.5. <br>
 
 <h3>#About</h3> 
-<br>Programmer:</b> Jai Verma <br>
+<br><b>Programmer:</b> Jai Verma <br>
 <br>B.Tech</b> in <b>Environmental Engineering</b> with minor in <b>Computer Science Engineering</b> <br>
 <b>College:</b> Delhi Technological University <br>
