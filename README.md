@@ -1,5 +1,5 @@
 <h2>#Electric Meter Application</h2>
-My housing society uses MyGate app, which allows users to pay the electricity bill based on the prepaid system, i.e you have to pay and according to your regular usage of electricity the money gets deducted from your account. This being a more practical and efficient way to pay for the electricity but the app lacks some basic features. So, I decided to make a better version of the electricity tab, which makes life easy for people living in my society and using the MyGate App. 
+My housing society uses MyGate app, which allows users to pay the electricity bill based on the prepaid system, i.e you have to pay and according to your regular usage of electricity the money gets deducted from your account. This being a more practical and efficient way to pay for the electricity but the app lacks some basic features. So, I decided to make a better version of the electricity tab for desktop, which makes life easy for people living in my society and using the MyGate App. 
 
 <h3>#Lack of Features in MyGate App</h3> 
 1. No feature that shows how much is the monthly bill <br>
